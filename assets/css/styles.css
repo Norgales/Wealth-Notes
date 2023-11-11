@@ -10,7 +10,7 @@
     --hue-color: 160; /*Purple 250 - Green 157 - Blue 230 - Pink 340*/
 
     /* HSL color mode */
-    --first-color: hsl(var(--hue-color), 100%, 35%);
+/*     --first-color: hsl(var(--hue-color), 100%, 35%);
     --first-color-second: hsl(var(--hue-color), 30%, 8%);
     --first-color-alt: hsl(var(--hue-color), 63%, 57%);
     --first-color-lighter: hsl(var(--hue-color), 92%, 85%);
@@ -21,7 +21,7 @@
     --body-color: hsl(var(--hue-color), 60%, 99%);
     --container-color: #fff;
     --scroll-bar-color: hsl(var(--hue-color), 12%, 90%);
-    --scroll-thumb-color: hsl(var(--hue-color), 12%, 80%);
+    --scroll-thumb-color: hsl(var(--hue-color), 12%, 80%); */
 
     /*========== Font and typography ==========*/
     --body-font: 'Poppins', sans-serif;
