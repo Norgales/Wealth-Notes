@@ -165,7 +165,9 @@ section{
 
 /*==================== DOR ====================*/
 .bgwhite{
- 
+  background-color: var(--title-color);
+  color: var(--hue-color);
+  padding: 3rem 0 5rem 0;
 }
 
 .dor{
