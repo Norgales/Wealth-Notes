@@ -205,6 +205,7 @@ section{
   border-radius: 3rem;
   line-height: 2rem;
   padding: 2rem 4rem 2rem 4rem;
+  margin: -2rem 0 -2rem 0;
   border-radius: 3rem;
   width:fit-content;
   justify-self: center;
@@ -305,6 +306,15 @@ section{
 .bigtitle{
   font-size: 4rem;
 }
+/*==================== QUEM SOU ====================*/
+.img_quemsou{
+  width: 50%;
+  align-self: center;
+  justify-self: center;
+  margin-top: -3rem;
+  margin-bottom: -2rem;
+}
+
 /*==================== FAQ ====================*/
 .skills__container{
   row-gap: 0;
