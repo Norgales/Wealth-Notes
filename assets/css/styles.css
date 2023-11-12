@@ -482,6 +482,9 @@ section{
     justify-self: center;
     align-self: center;
   }
+  .bigtitle{
+  font-size: 2rem;
+  }
 }
 
 @media screen and (min-width: 700px){
