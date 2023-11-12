@@ -476,7 +476,7 @@ section{
   }
   .bw,
   .quem{
-    font-size:x-small;
+    font-size: small;
     padding: 1rem;
   }
 }
