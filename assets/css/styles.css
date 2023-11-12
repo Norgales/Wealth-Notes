@@ -471,6 +471,14 @@ section{
     justify-self: center;
     align-self: center;
   }
+  .bigtitle{
+    font-size: 2rem;
+  }
+  .bw,
+  .quem{
+    font-size:x-small;
+    padding: 1rem;
+  }
 }
 
 /* For medium devices */
