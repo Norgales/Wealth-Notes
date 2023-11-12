@@ -128,7 +128,7 @@ section{
 
 /*==================== HOME ====================*/
 .img_home{
-  width: 80%;
+  width: 100%;
   justify-self: center;
   align-self: center;
   margin-top: -3rem;
