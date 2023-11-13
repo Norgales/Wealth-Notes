@@ -319,7 +319,11 @@ section{
   align-self: center;
   justify-self: center;
   margin-top: -3rem;
-  margin-bottom: -2rem;
+  border-radius: 1rem;
+}
+
+.story{
+  text-align: justify;
 }
 
 /*==================== FAQ ====================*/
@@ -489,6 +493,9 @@ section{
     border-radius: 0.5rem;
   }
   .img_pags{
+    width: 80%;
+  }
+  .img_quemsou{
     width: 80%;
   }
 }
