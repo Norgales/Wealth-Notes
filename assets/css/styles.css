@@ -306,6 +306,10 @@ section{
 .bigtitle{
   font-size: 4rem;
 }
+
+.img_pags{
+  width: 50%;
+}
 /*==================== QUEM SOU ====================*/
 .img_quemsou{
   width: 50%;
@@ -479,6 +483,9 @@ section{
     font-size: small;
     padding: 1rem;
     border-radius: 0.5rem;
+  }
+  .img_pags{
+    width: 80%;
   }
 }
 
