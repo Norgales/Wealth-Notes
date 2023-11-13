@@ -301,6 +301,7 @@ section{
 
 .btn_checkout{
   display: block;
+  margin-top: -1rem;
 }
 
 .bigtitle{
