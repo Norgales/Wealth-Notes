@@ -165,7 +165,7 @@ section{
   background-color: white;
   color: black;
   line-height: 2rem;
-  padding: 2rem 4rem 2rem 4rem;
+  padding: 2rem 6rem 2rem 2rem;
   border-radius: 3rem;
   width:fit-content;
   justify-self: center;
@@ -204,7 +204,7 @@ section{
   background-color: var(--input-color-second);
   border-radius: 3rem;
   line-height: 2rem;
-  padding: 2rem 4rem 2rem 4rem;
+  padding: 2rem 6rem 2rem 2rem;
   margin: -2rem 0 -2rem 0;
   border-radius: 3rem;
   width:fit-content;
@@ -370,6 +370,7 @@ section{
   display: flex;
   justify-content: space-between;
   margin-bottom: var(--mb-0-5);
+  margin-left: -3rem;
 }
 
 .skills__name{
@@ -483,7 +484,7 @@ section{
   }
   .bw,
   .quem{
-    font-size: small;
+    font-size:x-small;
     padding: 1rem;
     border-radius: 0.5rem;
   }
